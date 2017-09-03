@@ -1,0 +1,7 @@
+* For problem 4: In python3, ``f.next()`` is replaced by ``next(f)``. So the test runs fine with a slight modification: ``[next(f) for i in range(10)]``.
+
+* For problem 5, you were asked for a function, with input an integer, which returns the largest fibonacci number which is less than that number. For example: ``largest_fibonacci_before(645)`` should return ``610``. -5 points
+
+* for Problem 7: you should use two backticks like this ``n``; not two apostrophes ''n'' for variables and code samples.
+
+** Score: 25/35 **
